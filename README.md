@@ -1,3 +1,6 @@
+# What's ths
+this is the final assignment of class computer architecture in NKU. The original code is in this [link](https://github.com/XDUFanYang/ChampSim)
+
 # ChampSim
 ChampSim is a trace-based simulator for a microarchitecture study
 
